@@ -16,7 +16,7 @@
 <body>
 
 <section class="header">
-    <a href="home.php" class="logo">Book & go</a>
+    <a href="index.php" class="logo">Book & go</a>
     
     <nav class="navbar">
         <a href="index.php">Home</a>
